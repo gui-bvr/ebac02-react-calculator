@@ -1,6 +1,6 @@
 :root {
-  --primary: #d815eb;
-  --secondary: #8c38ff;
+  --primary: #09A6EB;
+  --secondary: #044C6B;
   --dark: #131a26;
   --light: #eee;
 }
@@ -9,7 +9,7 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  font-family: 'Fira Sans', 'sans-serif';
+  font-family: 'Roboto', sans-serif;
 }
 
 body {
